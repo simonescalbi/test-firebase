@@ -1,0 +1,30 @@
+{
+  "name": "my-gatsby-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby Site",
+  "author": "Simone Scalbi",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@wise-emotions/react-icons": "^1.5.1",
+    "@wise-emotions/react-select": "^2.1.0",
+    "@wise-emotions/react-utils": "^2.1.5",
+    "@wise-emotions/styles-utils": "^2.0.3",
+    "classnames": "^2.3.1",
+    "focus-layers": "^0.6.1",
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-sass": "^5.5.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.48.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "test-public-site-db91f"
+  },
+  "targets": {
+    "test-public-site-db91f": {
+      "hosting": {
+        "dev": [
+          "test-public-site-db91f"
+        ]
+      }
+    }
+  }
+}
